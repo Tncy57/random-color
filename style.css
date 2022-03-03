@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+span {
+  margin-left: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
